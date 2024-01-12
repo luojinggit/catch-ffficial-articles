@@ -166,3 +166,4 @@ driver.quit()
 print("执行完成，窗口将在5秒内关闭")
 for i in range(5, 0, -1):
     print(i)
+    sleep(1)
